@@ -17,7 +17,7 @@ As a future scope, content based recommendation and collaborative filtering usin
 
 I am grateful to Mr. [Krishna Kumar Tiwari](https://www.linkedin.com/in/agentkk/) for the mentoring and for the valuable guidance provided as my project guide to understand the concept and in executing this project.
 
-I am highly indebted to [Dr. Shinu Abhi](https://in.linkedin.com/in/shinu-abhi-711a339), Director-Corporate Training, [REVA Academy For Corporate Excellence, REVA University](https://race.reva.edu.in/) and Chief Mentor, [Dr. Jay Bharateesh Simha](https://in.linkedin.com/in/jbsimha) for all the support and guidance during the course and my project.
+I am highly indebted to [Dr. Shinu Abhi](https://in.linkedin.com/in/shinu-abhi-711a339), Director of Corporate Training, [REVA Academy For Corporate Excellence, REVA University](https://race.reva.edu.in/) and Chief Mentor, [Dr. Jay Bharateesh Simha](https://in.linkedin.com/in/jbsimha) for all the support and guidance during the course and my project.
 
 
 ## Authors
